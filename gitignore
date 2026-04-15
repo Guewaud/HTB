@@ -1,0 +1,13 @@
+# Fichiers CherryTree des boxes (données personnelles)
+Cherrytree/*.ctb
+!Cherrytree/PenTest Template.ctb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
